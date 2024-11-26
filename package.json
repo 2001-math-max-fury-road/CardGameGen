@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "chat feature for Couch Potato",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ejs": "^3.0.1",
     "emoji-mart": "^3.0.0",
     "express": "^4.17.1",
